@@ -26,11 +26,11 @@ This is an **old project** uploaded just for **fun and learning**. It’s not op
 ## 📂 How to Run
 ### 1️⃣ Clone the repo:
    ```bash
-   git clone https://github.com/Arsalan692/Turtle-Google-Logo
+   git clone https://github.com/Arsalan692/Akuma-Calculator
    ```
 ### 2️⃣ Run the script:
    ```bash
-   python google_logo.py
+   python Akuma_Calculator.py
    ```
 
 ---
